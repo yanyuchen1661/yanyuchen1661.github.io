@@ -1,8 +1,10 @@
 ---
-title：“About”
-permalink：/about/
+title: "About"
+permalink: /about/
 header:
-  image:"/images/star.jpg"
+  image: "/images/Rollins.jpg"
 ---
 
-I am a data analyst who skilled at R programming and SAS programming with regard to SUDDAN, clinical trails and data visualization.
+I'm a senior data scientist who excels at SAS, R, clinical trails, exploratory analysis, and data visualizations.
+
+Etc, etc, etc

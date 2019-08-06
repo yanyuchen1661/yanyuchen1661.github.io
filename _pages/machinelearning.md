@@ -1,11 +1,10 @@
 ---
-layout: archive
-permalink:/SUDDAN/
-title: "SUDDAN Posts by Tags"
-
+layout: posts
+permalink: /SUDDAN/
+title: "SUDDAN"
 author_profile: true
-header：
-  image: "/images/Miky_way.jpg"
+header:
+  image: "/images/Milky_way.jpg"
 ---
 
 {% include base_path %}
