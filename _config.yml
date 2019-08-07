@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuchen Yan"
-  avatar           : "/images/Lower_Fall.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Yuchen.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Atlanta, GA"
   email            :
