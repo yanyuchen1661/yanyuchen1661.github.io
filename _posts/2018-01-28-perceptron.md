@@ -1,7 +1,7 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Project Conducted in Rollins of Public Health in Emory University"
+date: 2019-05-13
+tags: [SAS, R, Epidemiology, Survival Analysis]
 header:
   image: "/images/Rollins.jpg"
 excerpt: "Data Wrangling, Data Science, Messy Data"
